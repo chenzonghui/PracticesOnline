@@ -12,8 +12,8 @@ import java.util.UUID;
  */
 public class BaseEntity {
     @AsPrimaryKey
-    UUID id;
-    BaseEntity(){
+    protected UUID id;
+    public  BaseEntity(){
         id = UUID.randomUUID();
     }
 
