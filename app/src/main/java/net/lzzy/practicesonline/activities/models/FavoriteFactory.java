@@ -1,6 +1,4 @@
-package net.lzzy.practicesonline.activities.models.views;
-
-import androidx.fragment.app.Fragment;
+package net.lzzy.practicesonline.activities.models;
 
 import net.lzzy.practicesonline.activities.constants.DbConstants;
 import net.lzzy.practicesonline.activities.utils.AppUtils;

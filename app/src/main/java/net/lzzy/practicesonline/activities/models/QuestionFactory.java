@@ -1,4 +1,4 @@
-package net.lzzy.practicesonline.activities.models.views;
+package net.lzzy.practicesonline.activities.models;
 
 import android.text.TextUtils;
 

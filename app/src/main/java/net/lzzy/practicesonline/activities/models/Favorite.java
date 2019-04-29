@@ -1,4 +1,4 @@
-package net.lzzy.practicesonline.activities.models.views;
+package net.lzzy.practicesonline.activities.models;
 
 import net.lzzy.practicesonline.activities.models.BaseEntity;
 import net.lzzy.sqllib.Ignored;
